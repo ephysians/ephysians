@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/ephysians" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ephysians" height="30" width="40" /></a>
 <a href="https://twitter.com/lifted_veron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifted_veron" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/emmanuel-chukwukere-2aa170a3/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/[linkedin.svg](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-White-Dark-Background-Logo.wine.svg)" alt="Emmauel Chuks" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-chukwukere-2aa170a3/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="Emmauel Chuks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
